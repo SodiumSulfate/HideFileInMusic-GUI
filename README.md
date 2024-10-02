@@ -5,4 +5,4 @@ Use songs in wav format to hide any files, novels, pictures, torrents, etc.
 原仓库地址：https://github.com/3150601355/HideFileInMusic
 原作者视频：https://www.bilibili.com/video/BV1NF411i7Zh/
 
-GUI版本使用视频：
+GUI版本使用视频：https://www.bilibili.com/video/BV1BJ4m1M7vA
